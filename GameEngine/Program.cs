@@ -1,4 +1,4 @@
-// 간단 2D 탱크 게임 (서버쪽) 예시
+// 간단 2D 슈팅 게임 (서버쪽) 예시
 
 using System;
 using System.Collections.Generic;
